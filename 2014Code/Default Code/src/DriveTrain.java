@@ -3,7 +3,7 @@
  * This class is supposed to initiate the drive stuff. I think
  */
 
-package edu.wpi.first.wpilibj.templates;
+
 
 
 public class DriveTrain 

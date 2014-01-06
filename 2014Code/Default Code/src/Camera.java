@@ -3,7 +3,7 @@
  * This class is supposed to do the camera stuff
  */
 
-package edu.wpi.first.wpilibj.templates;
+
 
 public class Camera 
 {
