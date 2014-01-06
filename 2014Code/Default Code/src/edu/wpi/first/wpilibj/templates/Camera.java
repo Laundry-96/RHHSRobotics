@@ -5,12 +5,21 @@
 
 package edu.wpi.first.wpilibj.templates;
 
-/**
- *
- * @author Austin
- */
 public class Camera 
 {
-    axis
-
+    /**
+     * Take a photo, do something 
+     */
+    public void takePhoto()
+    {
+        
+    }
+    
+    /**
+     * Analyze the photo, check each pixel color and tell where the robot to point
+     */
+    public void analyzePhoto()
+    {
+        
+    }
 }
