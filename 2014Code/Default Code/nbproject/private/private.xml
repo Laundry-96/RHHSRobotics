@@ -4,9 +4,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Austin/Documents/GitHub/RHHSRobotics/2014Code/Default%20Code/src/edu/wpi/first/wpilibj/templates/Camera.java</file>
-            <file>file:/C:/Users/Austin/Documents/GitHub/RHHSRobotics/2014Code/Default%20Code/src/edu/wpi/first/wpilibj/templates/DriveTrain.java</file>
-            <file>file:/C:/Users/Austin/Documents/GitHub/RHHSRobotics/2014Code/Default%20Code/src/edu/wpi/first/wpilibj/templates/Default.java</file>
+            <file>file:/C:/Users/Austin/Documents/GitHub/RHHSRobotics/2014Code/Default%20Code/src/Camera.java</file>
+            <file>file:/C:/Users/Austin/Documents/GitHub/RHHSRobotics/2014Code/Default%20Code/src/Color.java</file>
+            <file>file:/C:/Users/Austin/Documents/GitHub/RHHSRobotics/2014Code/Default%20Code/src/DriveTrain.java</file>
+            <file>file:/C:/Users/Austin/Documents/GitHub/RHHSRobotics/2014Code/Default%20Code/src/RobotTemplate.java</file>
+            <file>file:/C:/Users/Austin/Documents/GitHub/RHHSRobotics/2014Code/Default%20Code/src/Pixel.java</file>
         </group>
     </open-files>
 </project-private>

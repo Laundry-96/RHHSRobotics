@@ -15,12 +15,17 @@ import edu.wpi.first.wpilibj.IterativeRobot;
  * directory.
  */
 public class RobotTemplate extends IterativeRobot {
+    
+    Camera camera;
+    DriveTrain driveTrain;
     /**
      * This function is run when the robot is first started up and should be
      * used for any initialization code.
      */
     public void robotInit() {
-
+        driveTrain = new DriveTrain();
+        camera = new Camera("Map to camera");
+        camera
     }
 
     /**

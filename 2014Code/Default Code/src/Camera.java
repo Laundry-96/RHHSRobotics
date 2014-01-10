@@ -3,15 +3,28 @@
  * This class is supposed to do the camera stuff
  */
 
-
+ import edu.wpi.first.wpilibj.camera.*; 
 
 public class Camera 
 {
+    AxisCamera aCam;
+    Pixel[] pixels;
+    ColorImage cI;
+    
+    public Camera(String cam)
+    {
+        aCam = new AxisCamera(cam);
+        pixels = new Pixel[aCam.getResolution()];
+        cI = new ColorImage();
+    }
+    
     /**
      * Take a photo, do something 
      */
     public void takePhoto()
     {
+        ColorImage cImage;
+        cImage = aCam.getImage();
         
     }
     
@@ -20,6 +33,9 @@ public class Camera
      */
     public void analyzePhoto()
     {
-        
+        for(Pixel p : pixels)
+        {
+            if(p)
+        }
     }
 }
