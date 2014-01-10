@@ -4,6 +4,7 @@
  */
 
  import edu.wpi.first.wpilibj.camera.*; 
+ import edu.wpi.first.wpilibj.image.*;
 
 public class Camera 
 {
